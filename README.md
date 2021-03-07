@@ -9,7 +9,7 @@ Gabriel Rüscher Pascual (Gabriel-Rpascual)---
 Iris Martínez Pérez (usuario GitHub)---
 Ismael Torrijano Pedroche (usuario GitHub)---
 Javier Nicolao Gómez (usuario GitHub)---
-Lucía Pardo Hermosa (usuario GitHub)---
+Lucía Pardo Hermosa (lucia-phermosa)---
 
 ## Objetivos del trabajo
 
@@ -21,4 +21,3 @@ Lucía Pardo Hermosa (usuario GitHub)---
 -Opción de guardar partidas para poder continuar una partida en otro momento-
 -Puntuaciones más altas y nombre de los jugadores-
 -Sonido?
--Juego secundario: Buscaminas (si da tiempo)
